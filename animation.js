@@ -11,6 +11,6 @@ function fadeOutAndRedirect() {
   body.style.opacity = 0;
 
   setTimeout(function () {
-    window.location.href = "https://ananditasinghh.github.io/SurPravah/"; 
+    window.location.href = "https://www.youtube.com/watch?v=qLshdZTgtLk"; 
   }, 1000); 
 }
